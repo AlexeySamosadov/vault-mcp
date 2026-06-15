@@ -20,6 +20,7 @@ Each server is free to use for its core tools, with an optional **one-time crypt
 | [vaultcrypt-mcp](https://github.com/AlexeySamosadov/vaultcrypt-mcp) | Encrypt: AES-256-GCM file encrypt/decrypt, passphrase gen · *Pro:* whole-folder | `npx github:AlexeySamosadov/vaultcrypt-mcp` |
 | [vaulttime-mcp](https://github.com/AlexeySamosadov/vaulttime-mcp) | Time: now-in-tz, diff, add · *Pro:* timezone-convert, countdown | `npx github:AlexeySamosadov/vaulttime-mcp` |
 | [vaultyaml-mcp](https://github.com/AlexeySamosadov/vaultyaml-mcp) | YAML: validate, YAML↔JSON · *Pro:* query-by-path, deep-merge | `npx github:AlexeySamosadov/vaultyaml-mcp` |
+| [vaultbase-mcp](https://github.com/AlexeySamosadov/vaultbase-mcp) | Encoding: base64/hex/url, URL parse · *Pro:* JWT-decode, file↔base64 | `npx github:AlexeySamosadov/vaultbase-mcp` |
 
 ## Use in Claude Desktop
 Add any of them to `claude_desktop_config.json`, e.g.:
