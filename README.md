@@ -17,6 +17,7 @@ Each server is free to use for its core tools, with an optional **one-time crypt
 | [vaultjson-mcp](https://github.com/AlexeySamosadov/vaultjson-mcp) | JSON: validate, format, query-by-path · *Pro:* deep-merge, diff | `npx github:AlexeySamosadov/vaultjson-mcp` |
 | [vaultqr-mcp](https://github.com/AlexeySamosadov/vaultqr-mcp) | QR: PNG, SVG · *Pro:* Wi-Fi join codes, batch | `npx github:AlexeySamosadov/vaultqr-mcp` |
 | [vaultmd-mcp](https://github.com/AlexeySamosadov/vaultmd-mcp) | Markdown: to-HTML, TOC, links · *Pro:* strip-to-text, frontmatter | `npx github:AlexeySamosadov/vaultmd-mcp` |
+| [vaultcrypt-mcp](https://github.com/AlexeySamosadov/vaultcrypt-mcp) | Encrypt: AES-256-GCM file encrypt/decrypt, passphrase gen · *Pro:* whole-folder | `npx github:AlexeySamosadov/vaultcrypt-mcp` |
 
 ## Use in Claude Desktop
 Add any of them to `claude_desktop_config.json`, e.g.:
